@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ryanjkim11
-- 👀 I’m interested in coding and challenging myself everyday.
-- 🌱 I’m currently learning python/html as a first year college student
-- 💞️ I’m looking to collaborate on projects(internships
-- 📫 How to reach me: Instagram(ryanji44), email: rjkimnyc@gmail.com
+- 👋 Hi, I’m @Ryan J Kim
+- 👀 I’m interested in learning to further develop my skills within Front end languages and Python
+- 🌱 I’m currently learning python and Javascript as a first year college student
+- 💞️ Seeking to get experience to further expand my skills learned to apply to real projects
+- 📫 How to reach me: Instagram(ryanji44).  email: rjkimnyc@gmail.com.   PhoneNumber(929)-522-6801
 
 <!---
 Ryanjkim11/Ryanjkim11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
